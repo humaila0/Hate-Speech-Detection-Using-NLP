@@ -1,0 +1,2 @@
+Dataset Reference:
+https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset
